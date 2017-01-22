@@ -17,7 +17,6 @@ body {
     top: 0;
     position: fixed;
 }
-
 #nav_wrapper ul li{
     list-style: none;
     display: inline;
@@ -36,14 +35,12 @@ body {
 }
 h1{
     font-family: sans-serif;
-
 }
 section#me{/*About me - tyylit alkaa*/
     background: #F5F5F5;
     height: 500px;
     padding: 50px;
 }
-
 section#me h1{
     font-family: sans-serif;
     color: black;
@@ -80,7 +77,6 @@ section#education{/*Education - tyylit alkaa*/
     margin-right: 0px;
     margin-bottom: 25px;
     margin-left: 0px;
-
 }
 #education h2 {
     color: white;
@@ -90,7 +86,6 @@ section#education{/*Education - tyylit alkaa*/
     margin-right: 0px;
     margin-bottom: 25px;
     margin-left: 0px;
-
 }
 #education p {
     color: white;
@@ -115,7 +110,6 @@ section#work{/*Work-tyylit alkaa*/
     margin-bottom: 25px;
     margin-left: 0px;
 }
-
 #work h2 {
     color: black;
     text-align: center;
@@ -161,7 +155,6 @@ section#skills{/*Skills- tyylit alkaa*/
     height: 500px;
     background: #F5F5F5;
     padding: 50px;
-
 }
 #strengths h1{
     color:black;
