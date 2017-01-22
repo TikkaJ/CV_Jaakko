@@ -1,0 +1,130 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+#nav{
+    width: 100%;
+    height: 400px;
+    background: url(cv_background.jpg);
+    background-size: cover;
+}
+#nav_wrapper{
+    height: 100px;
+    width: 700px;
+    background: rgba(65, 126, 29, 0.59);;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px
+}
+
+#nav_wrapper ul li{
+    list-style: none;
+    display: inline;
+    font-weight: bold;
+    padding: 15px;
+}
+#nav_wrapper a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+#nav_wrapper ul li:hover{
+    background: #173309;
+    tansition: all 0.45s;
+}
+h1{
+    font-family: sans-serif;
+
+}
+section#me{/*About me - tyylit alkaa*/
+    background: #F5F5F5;
+    height: 500px;
+    padding: 50px;
+}
+
+section#me h1{
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 200%;
+}
+#me p{
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 125%;
+}
+
+/*About me - tyylit loppuu */
+section#education{/*Education - tyylit alkaa*/
+    background: #96BE0F;
+    height: 500px;
+    padding: 50px;
+
+}
+#education h1 {
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+#education h2 {
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+#education p {
+    color: white;
+    text-align: center;
+    font-size: 125%;
+}/*Education - tyylit loppuu*/
+section#work{/*Work-tyylit alkaa*/
+    height: 500px;
+    background: #F5F5F5;
+    padding: 50px;
+}
+#work h1, h2, p{
+    color:black;
+    text-align: center;
+}
+
+#work h2 {
+    color: black;
+    text-align: center;
+    font-size: 200%;
+}
+#work p{
+    color: black;
+    text-align: center;
+    font-size: 125%;
+} /*Work-tyylit loppuu*/
+section#skills{/*Skills- tyylit alkaa*/
+    background: #1DAAF8;
+    height: 500px;
+    padding: 50px;
+}
+#skills h1{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+#skills p{
+    color: white;
+    text-align: center;
+    font-size: 125%;
+}/*Skills-tyylit loppuu*/
+#strengths {/*Vahvuudet*/
+    height: 500px;
+    background: #F5F5F5;
+    padding: 50px;
+
+}
+#strengths h1{
+    color:black;
+    text-align: center;
+    font-size: 200%;
+}
+#strengths p{
+    color:black;
+    text-align: center;
+    font-size: 125%;
+}
