@@ -10,11 +10,12 @@ body {
 }
 #nav_wrapper{
     height: 100px;
-    width: 700px;
-    background: rgba(65, 126, 29, 0.59);;
+    width: 100%;
+    background: rgba(65, 126, 29, 0.59);
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100px
+    top: 0;
+    position: fixed;
 }
 
 #nav_wrapper ul li{
@@ -22,6 +23,7 @@ body {
     display: inline;
     font-weight: bold;
     padding: 15px;
+
 }
 #nav_wrapper a{
     color: white;
@@ -70,7 +72,7 @@ section#education{/*Education - tyylit alkaa*/
 #education h2 {
     color: white;
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
 }
 #education p {
     color: white;
@@ -82,15 +84,16 @@ section#work{/*Work-tyylit alkaa*/
     background: #F5F5F5;
     padding: 50px;
 }
-#work h1, h2, p{
+#work h1{
     color:black;
     text-align: center;
+    font-size: 200%;
 }
 
 #work h2 {
     color: black;
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
 }
 #work p{
     color: black;
@@ -127,4 +130,12 @@ section#skills{/*Skills- tyylit alkaa*/
     color:black;
     text-align: center;
     font-size: 125%;
+}
+footer{
+    height: 200px;
+    background: #f8a71b;
+    padding: 50px;
+}
+footer a{
+    padding: 15px;
 }
