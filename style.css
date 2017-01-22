@@ -49,12 +49,20 @@ section#me h1{
     color: black;
     text-align: center;
     font-size: 200%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }
 #me p{
     font-family: sans-serif;
     color: black;
     text-align: center;
     font-size: 125%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }
 
 /*About me - tyylit loppuu */
@@ -68,16 +76,30 @@ section#education{/*Education - tyylit alkaa*/
     color: white;
     text-align: center;
     font-size: 200%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+
 }
 #education h2 {
     color: white;
     text-align: center;
     font-size: 150%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+
 }
 #education p {
     color: white;
     text-align: center;
     font-size: 125%;
+    margin-top: 0px;
+    margin-right: 250px;
+    margin-bottom: 25px;
+    margin-left:0px;
 }/*Education - tyylit loppuu*/
 section#work{/*Work-tyylit alkaa*/
     height: 500px;
@@ -88,17 +110,29 @@ section#work{/*Work-tyylit alkaa*/
     color:black;
     text-align: center;
     font-size: 200%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }
 
 #work h2 {
     color: black;
     text-align: center;
     font-size: 150%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }
 #work p{
     color: black;
     text-align: center;
     font-size: 125%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 230px;
 } /*Work-tyylit loppuu*/
 section#skills{/*Skills- tyylit alkaa*/
     background: #1DAAF8;
@@ -109,11 +143,19 @@ section#skills{/*Skills- tyylit alkaa*/
     color: white;
     text-align: center;
     font-size: 200%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }
 #skills p{
     color: white;
     text-align: center;
     font-size: 125%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }/*Skills-tyylit loppuu*/
 #strengths {/*Vahvuudet*/
     height: 500px;
@@ -125,11 +167,19 @@ section#skills{/*Skills- tyylit alkaa*/
     color:black;
     text-align: center;
     font-size: 200%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
 }
 #strengths p{
     color:black;
     text-align: center;
     font-size: 125%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 250px;
 }
 footer{
     height: 200px;
