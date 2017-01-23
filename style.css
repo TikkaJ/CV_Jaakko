@@ -36,10 +36,17 @@ body {
 h1{
     font-family: sans-serif;
 }
+
+.section {
+    position: absolute;
+    top:10px;
+}
+
 section#me{/*About me - tyylit alkaa*/
     background: #F5F5F5;
     height: 500px;
     padding: 50px;
+    margin-bottom: -140px;
 }
 section#me h1{
     font-family: sans-serif;
